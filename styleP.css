@@ -1,0 +1,206 @@
+body {
+  background-color: #6F8FAF;
+  color: white;
+}
+
+h1{
+  font-weight: bolder;
+  color:rgb(242, 173, 69);
+}
+
+.footer {
+  background-color: #6F8FAF;
+}
+.navbar-brand, .nav-link, footer p {
+  color: white;
+  font-family: 'Ubuntu';
+}
+.card {
+  border-color: #6F8FAF;
+}
+.btn-primary {
+  background-color: #6F8FAF;
+  border-color: #6F8FAF;
+}
+.btn-primary:hover {
+  background-color: #6F8FAF;
+  border-color: #6F8FAF;
+}
+
+/*About Me*/
+#about{
+  background-color: #6F8FAF;
+  color: white;
+  text-align: center;
+}
+.about-icon{
+  text-align: center;
+  font-size: smaller;
+  color: black;
+}
+
+/*Contact*/
+#contact{
+  background-color: #6F8FAF;
+  color: black;
+}
+
+.message{
+  padding: 10px 20px;
+  display: block;
+  cursor: -webkit-grab;
+  cursor:grab;
+  color:black;
+}
+
+.message:hover{
+  text-decoration: none;
+  background: rgb(242, 173, 69);
+  color: white;
+}
+
+/* Navigation Bar */
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family:'Ubuntu';
+  font-size: 20px;
+  font-weight:bolder;
+}
+
+.navbar-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-family: 'Mulish';
+  font-size: 1.2rem;
+}
+
+
+/*Projects*/
+#projects{
+  color:black;
+  text-align: center;
+}
+/* Add margin to separate the sections */
+section {
+  margin-bottom: 60px;
+}
+
+/* Add margin to separate the sections */
+section {
+  margin-bottom: 60px;
+}
+
+/* Ensure the project section has enough padding */
+#projects {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.text-center{
+  color:black;
+} 
+
+.card-title{
+  color:#6F8FAF;
+}
+
+/* Card styling */
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.card-body {
+  padding: 20px;
+  text-align: center; /* Center the text */
+}
+
+.card-title {
+  margin-bottom: 15px; /* Add some space below the title */
+  font-weight:bold;
+  color:rgb(242, 173, 69);
+}
+
+.card-text button {
+  margin-right: 10px; /* Add space between buttons */
+  margin-bottom: 10px; /* Add some space below the buttons */
+}
+
+.card-img-top{
+  width: 220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-img-top2{
+  width: 150px;
+  padding-top: 7%;
+  padding-bottom: 6%;
+  height:min-content;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pLink{
+  text-decoration: none;
+  color:rgb(242, 173, 69);;
+  padding: 10px 20px;
+  display: block;
+  cursor: -webkit-grab;
+  cursor:grab;
+}
+.pLlink:hover{
+  text-decoration: none;
+  display: block;
+  color: white;
+  background-color: rgb(242, 173, 69);
+}
+.projectrel{
+  color:#6F8FAF;
+}
+
+/*Footer Section*/
+.footer{
+  padding: 7% 15%;
+  text-align: center;
+  font-family: 'Ubuntu';
+}
+
+.social-icon{
+  margin: 20px 10px; 
+  text-align: center;
+}
+
+/*Resume*/
+#resume{
+  text-align: center;
+}
+
+h5{
+  text-align: center;
+}
+
+.link{
+  text-decoration: none;
+  color:black;
+  padding: 10px 20px;
+  display: block;
+  cursor: -webkit-grab;
+  cursor:grab;
+}
+
+.link:hover{
+  color: white;
+  background: rgb(242, 173, 69);
+}
